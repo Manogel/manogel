@@ -11,9 +11,9 @@ My name is Manoel Gomes and I'am a full stack developer. Passionate about techno
 
 #### About me
 
-- 🚀 Full stack developer at MSB Tecnologia, working with Nodejs, Reactjs, React Native and typescript.
-- 🎨 Frontend developer at cafeepixel, working with Reactjs, React Native and typescript.
-- 🎓 Graduating from Computer Science course.
-- 📚 In constant study and learning.
-- ⚡️ Hot: UX/UI Design | CI/CD | DigitalOcean
+- 🚀  Full stack developer at MSB Tecnologia, working with Nodejs, Reactjs, React Native and typescript.
+- 🎨  Frontend developer at cafeepixel, working with Reactjs, React Native and typescript.
+- 🎓  Graduating from Computer Science course.
+- 📚  In constant study and learning.
+- ⚡️  Hot: UX/UI Design | CI/CD | DigitalOcean
 
