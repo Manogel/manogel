@@ -12,7 +12,8 @@ My name is Manoel Gomes and I'am a full stack developer. Passionate about techno
 #### About me
 
 - 🎨  Frontend developer at cafeepixel, working with Reactjs, React Native and typescript.(06/2020 to 03/2021)
-- 📱  Full stack developer at Sthima, working with React Native, NestJs and typescript.(10/2020 to current)
+- 📱  Full stack developer at Sthima, working with React Native, NestJs and typescript.(10/2020 to 11/2021)
+- 🛠  Leader and developer at ~~Sthima~~ fleye (11/2021 to current)
 - 🚀  Full stack developer at MSB Tecnologia, working with Nodejs, Reactjs, React Native and typescript. (03/2019 to 10/2020)
 - 🎓  Graduating from Computer Science course.
 - 📚  In constant study and learning.
